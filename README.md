@@ -16,6 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-555?style=flat&logo=php)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=c++)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=java)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-555?style=flat&logo=kotlin)&nbsp;
