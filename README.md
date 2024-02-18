@@ -11,8 +11,8 @@
 > <b>I am a mobile development cohort at Bangkit Academy, a prestigious program led by Google, Tokopedia, Gojek, and Traveloka, where I learn from industry experts and work on real-world projects. I am also an undergraduate student of information system at Universitas Gunadarma, one of the top private universities in Indonesia. I have about a year of work experience as a laboratory assistant at my university and a junior developer at Pekomous, a local startup. I have multiple certifications in computer programming, data analytics, and Android development, as well as skills in software development, systems analysis, and database administration. I am passionate about creating innovative and user-friendly mobile applications that solve real problems and improve people's lives. I am eager to apply my knowledge and skills to the mobile development industry and contribute to its growth and advancement.</b>\
 
 ## 🛠️ Tech Stack:
-![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=html)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=css)&nbsp;
+![HTML](https://img.shields.io/badge/-html-555?style=flat&logo=html)&nbsp;
+![CSS](https://img.shields.io/badge/-css-555?style=flat&logo=css)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go)&nbsp;
 
