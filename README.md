@@ -12,6 +12,9 @@
 
 ## 🛠️ Tech Stack:
 ![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=html)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=css)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
+![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go)&nbsp;
 
 ## 📈 GitHub Activity Graph:
 
