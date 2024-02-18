@@ -8,7 +8,7 @@
 
 [![](./src/header_.png)](#)
 
-> <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.</b>\
+> <b>I am a mobile development cohort at Bangkit Academy, a prestigious program led by Google, Tokopedia, Gojek, and Traveloka, where I learn from industry experts and work on real-world projects. I am also an undergraduate student of information system at Universitas Gunadarma, one of the top private universities in Indonesia. I have about a year of work experience as a laboratory assistant at my university and a junior developer at Pekomous, a local startup. I have multiple certifications in computer programming, data analytics, and Android development, as well as skills in software development, systems analysis, and database administration. I am passionate about creating innovative and user-friendly mobile applications that solve real problems and improve people's lives. I am eager to apply my knowledge and skills to the mobile development industry and contribute to its growth and advancement.</b>\
 
 ## 🛠️ Tech Stack:
 ![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=html)&nbsp;
